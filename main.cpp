@@ -100,4 +100,5 @@ int main(void)
 	init();
 	dijkstraAlgorithm();
 	display();
+	
 }
